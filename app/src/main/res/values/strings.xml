@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kaushalya Karnataka</string>
+    <string name="tagline">Skilled Workers at Your Doorstep</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone Number</string>
+    <string name="name">Full Name</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="search_workers">Search for skilled workers...</string>
+    <string name="categories">Categories</string>
+    <string name="featured_workers">Featured Workers</string>
+    <string name="nearby_workers">Nearby Workers</string>
+    <string name="book_service">Book Service</string>
+    <string name="call">Call</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="completed">Completed</string>
+    <string name="settings">Settings</string>
+    <string name="notifications">Notifications</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="logout">Logout</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="earnings">Earnings</string>
+    <string name="booking_requests">Booking Requests</string>
+</resources>

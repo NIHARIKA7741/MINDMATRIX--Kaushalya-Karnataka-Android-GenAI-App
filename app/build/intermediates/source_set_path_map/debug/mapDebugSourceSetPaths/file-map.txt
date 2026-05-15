@@ -1,0 +1,73 @@
+com.kaushalya.karnataka.app-pngs-0 /Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/build/generated/res/pngs/debug
+com.kaushalya.karnataka.app-res-1 /Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/build/generated/res/processDebugGoogleServices
+com.kaushalya.karnataka.app-resValues-2 /Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/build/generated/res/resValues/debug
+com.kaushalya.karnataka.app-packageDebugResources-3 /Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.kaushalya.karnataka.app-packageDebugResources-4 /Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.kaushalya.karnataka.app-debug-5 /Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.kaushalya.karnataka.app-debug-6 /Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/src/debug/res
+com.kaushalya.karnataka.app-main-7 /Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/src/main/res
+com.kaushalya.karnataka.app-jetified-ui-tooling-preview-release-8 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/001f4f7f82789ad7c777393adcc611c3/transformed/jetified-ui-tooling-preview-release/res
+com.kaushalya.karnataka.app-browser-1.4.0-9 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/00bb28dc9e3f4ecda7e653b95529dbf1/transformed/browser-1.4.0/res
+com.kaushalya.karnataka.app-jetified-activity-ktx-1.9.1-10 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/0470b851586ed95b5b6bdd90682291ed/transformed/jetified-activity-ktx-1.9.1/res
+com.kaushalya.karnataka.app-jetified-ui-graphics-release-11 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/0956a86b930a25c69cc1967aa79a5767/transformed/jetified-ui-graphics-release/res
+com.kaushalya.karnataka.app-jetified-coil-base-2.6.0-12 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/0bda30affe9243f594f1a12970514a88/transformed/jetified-coil-base-2.6.0/res
+com.kaushalya.karnataka.app-jetified-datastore-preferences-core-release-13 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/12c9e2855188b995d59989c7ba4cd6f4/transformed/jetified-datastore-preferences-core-release/res
+com.kaushalya.karnataka.app-jetified-navigation-compose-2.7.7-14 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/18a9339b6606a2cc267a948d26bceee9/transformed/jetified-navigation-compose-2.7.7/res
+com.kaushalya.karnataka.app-jetified-ui-tooling-data-release-15 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/1a0b5f8a92e94f44b1292fd5a5f5daa0/transformed/jetified-ui-tooling-data-release/res
+com.kaushalya.karnataka.app-jetified-play-services-base-18.9.0-16 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/1a376563aa09c4ff85e96522c92342e9/transformed/jetified-play-services-base-18.9.0/res
+com.kaushalya.karnataka.app-jetified-ui-util-release-17 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/1c2e0005f2369fe7ed7c265723140553/transformed/jetified-ui-util-release/res
+com.kaushalya.karnataka.app-jetified-material3-release-18 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/20e18d67ae4ed5569afae06ab4c19af3/transformed/jetified-material3-release/res
+com.kaushalya.karnataka.app-jetified-lifecycle-viewmodel-savedstate-2.8.4-19 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/278dad7b1dd6129a16643bfe6992f9b7/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.4/res
+com.kaushalya.karnataka.app-jetified-firebase-common-22.0.1-20 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/291e8f5dd15c39fd3d04c312b19b76ef/transformed/jetified-firebase-common-22.0.1/res
+com.kaushalya.karnataka.app-jetified-emoji2-1.3.0-21 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/2e79171bbab208579f352b0ce2ba134d/transformed/jetified-emoji2-1.3.0/res
+com.kaushalya.karnataka.app-jetified-ads-adservices-java-1.1.0-beta11-22 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/30550cf4b7f64d0f41687174a388b6da/transformed/jetified-ads-adservices-java-1.1.0-beta11/res
+com.kaushalya.karnataka.app-jetified-ui-release-23 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/313ec950632414f88da7aba01221d43d/transformed/jetified-ui-release/res
+com.kaushalya.karnataka.app-jetified-lifecycle-process-2.8.4-24 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/341e2147a2d01b6fb411feaf01ad52a8/transformed/jetified-lifecycle-process-2.8.4/res
+com.kaushalya.karnataka.app-core-1.13.1-25 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/35e6e09d2ef81abf8d29495fee6f245c/transformed/core-1.13.1/res
+com.kaushalya.karnataka.app-navigation-runtime-2.7.7-26 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/389531436a0f0d9ecf64f333b877b9b8/transformed/navigation-runtime-2.7.7/res
+com.kaushalya.karnataka.app-jetified-runtime-saveable-release-27 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/4bb558a3aea8ed4f37a135f95303d95b/transformed/jetified-runtime-saveable-release/res
+com.kaushalya.karnataka.app-jetified-core-common-2.0.3-28 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/4c1fa22a6242fbf895b6142b27bf82ad/transformed/jetified-core-common-2.0.3/res
+com.kaushalya.karnataka.app-jetified-annotation-experimental-1.4.0-29 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/51b3f310a4e35d690600ce1831fff181/transformed/jetified-annotation-experimental-1.4.0/res
+com.kaushalya.karnataka.app-jetified-credentials-play-services-auth-1.2.0-rc01-30 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/5d3928145cc4bc4b2dabd7e6b2c3858a/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/res
+com.kaushalya.karnataka.app-navigation-common-ktx-2.7.7-31 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/5d78da7f7390d3c8248db5af00930ee9/transformed/navigation-common-ktx-2.7.7/res
+com.kaushalya.karnataka.app-lifecycle-livedata-2.8.4-32 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/614558383c54cabdc0bb73cc0a860988/transformed/lifecycle-livedata-2.8.4/res
+com.kaushalya.karnataka.app-jetified-ads-adservices-1.1.0-beta11-33 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/69f9687458a44dec391c3a15231968f7/transformed/jetified-ads-adservices-1.1.0-beta11/res
+com.kaushalya.karnataka.app-jetified-datastore-preferences-release-34 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/6cb1b829fcbc3dd1d492b0e8c1a9f214/transformed/jetified-datastore-preferences-release/res
+com.kaushalya.karnataka.app-jetified-activity-compose-1.9.1-35 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/786d9dde675b180b136f512a7c986b43/transformed/jetified-activity-compose-1.9.1/res
+com.kaushalya.karnataka.app-jetified-lifecycle-livedata-core-ktx-2.8.4-36 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/7abc7a9d0269a162ddc44544d3096a55/transformed/jetified-lifecycle-livedata-core-ktx-2.8.4/res
+com.kaushalya.karnataka.app-navigation-runtime-ktx-2.7.7-37 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/7c2051775f6b47cbb5d9eee29f05da77/transformed/navigation-runtime-ktx-2.7.7/res
+com.kaushalya.karnataka.app-core-runtime-2.2.0-38 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/81f17126f17baa1f98a316e50cb70933/transformed/core-runtime-2.2.0/res
+com.kaushalya.karnataka.app-jetified-credentials-1.2.0-rc01-39 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/835e0d10290f31a8f21f34029531bdd1/transformed/jetified-credentials-1.2.0-rc01/res
+com.kaushalya.karnataka.app-jetified-customview-poolingcontainer-1.0.0-40 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/8c9dfa57b3777ca2648fe67c92951adc/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.kaushalya.karnataka.app-jetified-appcompat-resources-1.6.1-41 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/8d11477f9f52119c6b8669127cca989e/transformed/jetified-appcompat-resources-1.6.1/res
+com.kaushalya.karnataka.app-jetified-startup-runtime-1.1.1-42 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/9ac5975589be9fa5f1de4f87614d1745/transformed/jetified-startup-runtime-1.1.1/res
+com.kaushalya.karnataka.app-jetified-ui-geometry-release-43 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/9ba6204abe273336f38843715751afce/transformed/jetified-ui-geometry-release/res
+com.kaushalya.karnataka.app-jetified-ui-tooling-release-44 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/9c6d7a62d65717eb539afb2279fbb164/transformed/jetified-ui-tooling-release/res
+com.kaushalya.karnataka.app-jetified-core-ktx-1.13.1-45 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/9e319360f4ba7aad94bb1e5d2cd520ae/transformed/jetified-core-ktx-1.13.1/res
+com.kaushalya.karnataka.app-jetified-foundation-layout-release-46 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/a10f285e515a2d4d706e39fee22905b1/transformed/jetified-foundation-layout-release/res
+com.kaushalya.karnataka.app-jetified-activity-1.9.1-47 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/a8fd361751dac51231523225f83a62bc/transformed/jetified-activity-1.9.1/res
+com.kaushalya.karnataka.app-jetified-lifecycle-viewmodel-release-48 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/a980c8a8ce78f253d4990abb998934bc/transformed/jetified-lifecycle-viewmodel-release/res
+com.kaushalya.karnataka.app-jetified-material-icons-core-release-49 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/abd8799ff2152ab1bff0f3fcdc5685d9/transformed/jetified-material-icons-core-release/res
+com.kaushalya.karnataka.app-jetified-savedstate-ktx-1.2.1-50 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/b18130c6e3e6837dbe03f4f85a1125d9/transformed/jetified-savedstate-ktx-1.2.1/res
+com.kaushalya.karnataka.app-jetified-lifecycle-viewmodel-compose-release-51 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/b2fad22e4708ce803495e5bdf685ef72/transformed/jetified-lifecycle-viewmodel-compose-release/res
+com.kaushalya.karnataka.app-navigation-common-2.7.7-52 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/b5d1afc3c94dd0b2ce2a847d269842ef/transformed/navigation-common-2.7.7/res
+com.kaushalya.karnataka.app-jetified-lifecycle-runtime-release-53 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/ba573e300fa19c5eeca993d97d7dadea/transformed/jetified-lifecycle-runtime-release/res
+com.kaushalya.karnataka.app-jetified-lifecycle-runtime-ktx-release-54 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/c5016b8476bde308612c982ac115988d/transformed/jetified-lifecycle-runtime-ktx-release/res
+com.kaushalya.karnataka.app-jetified-ui-test-manifest-1.6.8-55 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/c560cbe012e9dd459c90c6b8bee24b77/transformed/jetified-ui-test-manifest-1.6.8/res
+com.kaushalya.karnataka.app-jetified-ui-text-release-56 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/c5c816118d3a61bfe1dab5b8dce62a2a/transformed/jetified-ui-text-release/res
+com.kaushalya.karnataka.app-jetified-material-release-57 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/c91e014e6b0cda58f8f348e0df28aa52/transformed/jetified-material-release/res
+com.kaushalya.karnataka.app-jetified-datastore-core-release-58 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/ceccab4cd0d4601af24ab817589ed240/transformed/jetified-datastore-core-release/res
+com.kaushalya.karnataka.app-lifecycle-livedata-core-2.8.4-59 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/d0e4069c4353367f2bc4caa42de5c389/transformed/lifecycle-livedata-core-2.8.4/res
+com.kaushalya.karnataka.app-jetified-play-services-basement-18.9.0-60 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/d2f4063657ed6833af51cc6de725a7d8/transformed/jetified-play-services-basement-18.9.0/res
+com.kaushalya.karnataka.app-jetified-runtime-release-61 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/d9b4a63f0f8a6a8d05f7898dc010f604/transformed/jetified-runtime-release/res
+com.kaushalya.karnataka.app-jetified-play-services-auth-20.7.0-62 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/e1ab36705ce5897b43dc4bdd6581cc86/transformed/jetified-play-services-auth-20.7.0/res
+com.kaushalya.karnataka.app-jetified-ui-unit-release-63 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/e4a494b66d0a267b6a2cc2ee00ca0851/transformed/jetified-ui-unit-release/res
+com.kaushalya.karnataka.app-jetified-material-ripple-release-64 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/e9ad25c0a8585b39b68387bd7fc96f5f/transformed/jetified-material-ripple-release/res
+com.kaushalya.karnataka.app-jetified-lifecycle-viewmodel-ktx-2.8.4-65 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/ea242799bf3a18ebba8042af9ad36b9a/transformed/jetified-lifecycle-viewmodel-ktx-2.8.4/res
+com.kaushalya.karnataka.app-jetified-material-icons-extended-release-66 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/f38f838f1b530b986fe10222ad295671/transformed/jetified-material-icons-extended-release/res
+com.kaushalya.karnataka.app-jetified-foundation-release-67 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/f46140606d0a6351effb592e3b2e6b60/transformed/jetified-foundation-release/res
+com.kaushalya.karnataka.app-jetified-animation-core-release-68 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/f4fe45b6768edf9db8e244c9d1710e75/transformed/jetified-animation-core-release/res
+com.kaushalya.karnataka.app-jetified-profileinstaller-1.3.1-69 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/f6c939ca74b1b894d00e6002a6969c53/transformed/jetified-profileinstaller-1.3.1/res
+com.kaushalya.karnataka.app-jetified-savedstate-1.2.1-70 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/fc88e91a12d0d322e51f6bc0ced9d228/transformed/jetified-savedstate-1.2.1/res
+com.kaushalya.karnataka.app-jetified-datastore-release-71 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/fd2a7fee60b04e0bf90231542f48dfbf/transformed/jetified-datastore-release/res
+com.kaushalya.karnataka.app-jetified-animation-release-72 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/fe0b428f54300362f716ba2aa43bf1dd/transformed/jetified-animation-release/res

@@ -1,0 +1,7 @@
+#Fri May 15 14:51:48 IST 2026
+base.0=/Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

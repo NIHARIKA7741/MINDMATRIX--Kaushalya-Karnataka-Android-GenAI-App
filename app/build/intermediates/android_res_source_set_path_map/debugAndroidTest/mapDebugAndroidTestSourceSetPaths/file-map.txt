@@ -1,0 +1,36 @@
+com.kaushalya.karnataka.test.app-androidTest-0 /Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/build/generated/res/resValues/androidTest/debug
+com.kaushalya.karnataka.test.app-updated_navigation_xml-1 /Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/build/generated/updated_navigation_xml/debugAndroidTest
+com.kaushalya.karnataka.test.app-mergeDebugAndroidTestResources-2 /Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.kaushalya.karnataka.test.app-mergeDebugAndroidTestResources-3 /Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.kaushalya.karnataka.test.app-debugAndroidTest-4 /Users/niharikaranjan_2025/ Kaushalya-Karnataka/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+com.kaushalya.karnataka.test.app-jetified-startup-runtime-1.1.1-5 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/000c79c08eee036d4db2de0c1fd97eed/transformed/jetified-startup-runtime-1.1.1/res
+com.kaushalya.karnataka.test.app-jetified-emoji2-1.3.0-6 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/008b242741caa78db2a0dc273c2a85cb/transformed/jetified-emoji2-1.3.0/res
+com.kaushalya.karnataka.test.app-core-1.13.1-7 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/00a42d1aac7b1b4746660963e0a4eaaf/transformed/core-1.13.1/res
+com.kaushalya.karnataka.test.app-jetified-core-ktx-1.13.1-8 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/13549342f2a472433c9097f925f531f9/transformed/jetified-core-ktx-1.13.1/res
+com.kaushalya.karnataka.test.app-jetified-ui-test-release-9 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/16515ac94ddb15d2d7aafd3b580f2bea/transformed/jetified-ui-test-release/res
+com.kaushalya.karnataka.test.app-jetified-ui-graphics-release-10 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/1af40b65631e8e0a405bd6591787640a/transformed/jetified-ui-graphics-release/res
+com.kaushalya.karnataka.test.app-jetified-savedstate-ktx-1.2.1-11 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/28f21c1f8314b24976e12fea5663b6de/transformed/jetified-savedstate-ktx-1.2.1/res
+com.kaushalya.karnataka.test.app-jetified-lifecycle-viewmodel-ktx-2.8.4-12 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/2bdddecf2d9aa8241260f1832212156c/transformed/jetified-lifecycle-viewmodel-ktx-2.8.4/res
+com.kaushalya.karnataka.test.app-jetified-activity-1.9.1-13 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/2dad13a398b62dda27a83bc68aaa8528/transformed/jetified-activity-1.9.1/res
+com.kaushalya.karnataka.test.app-jetified-lifecycle-runtime-ktx-release-14 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/37cfabdfbb391238812186798eae3113/transformed/jetified-lifecycle-runtime-ktx-release/res
+com.kaushalya.karnataka.test.app-jetified-lifecycle-viewmodel-savedstate-2.8.4-15 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/382190ecacc2d5361c59911b75a591e8/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.4/res
+com.kaushalya.karnataka.test.app-jetified-profileinstaller-1.3.1-16 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/3c5bfd49ec0aa4e8021de49d7af1957d/transformed/jetified-profileinstaller-1.3.1/res
+com.kaushalya.karnataka.test.app-jetified-activity-compose-1.9.1-17 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/3fd1145125d6bc4febed86865c5d0909/transformed/jetified-activity-compose-1.9.1/res
+com.kaushalya.karnataka.test.app-jetified-ui-release-18 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/4f1193ef891b4afd0063890374c0ef78/transformed/jetified-ui-release/res
+com.kaushalya.karnataka.test.app-jetified-runtime-saveable-release-19 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/502b616d928cda768ce7cb21d9a59168/transformed/jetified-runtime-saveable-release/res
+com.kaushalya.karnataka.test.app-lifecycle-livedata-core-2.8.4-20 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/5f39a924ffccbbe902ce941626c8c6fd/transformed/lifecycle-livedata-core-2.8.4/res
+com.kaushalya.karnataka.test.app-jetified-customview-poolingcontainer-1.0.0-21 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/62e6b3aacffc9dbfef361d66cc43f2bf/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.kaushalya.karnataka.test.app-jetified-ui-text-release-22 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/74816a57f800c84296acd7674e969e2e/transformed/jetified-ui-text-release/res
+com.kaushalya.karnataka.test.app-jetified-lifecycle-viewmodel-release-23 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/87e1af79bc85b9d2c6171db1af9d70e3/transformed/jetified-lifecycle-viewmodel-release/res
+com.kaushalya.karnataka.test.app-jetified-ui-geometry-release-24 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/9e38be1c365417a4c22663c82293b906/transformed/jetified-ui-geometry-release/res
+com.kaushalya.karnataka.test.app-jetified-ui-unit-release-25 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/a269daa0e0c11955e537b45398854b74/transformed/jetified-ui-unit-release/res
+com.kaushalya.karnataka.test.app-jetified-savedstate-1.2.1-26 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/bd3c7344e910295ed27340f7bf995e1c/transformed/jetified-savedstate-1.2.1/res
+com.kaushalya.karnataka.test.app-jetified-activity-ktx-1.9.1-27 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/c0126a520549adf810ce64f8d5f6ebbf/transformed/jetified-activity-ktx-1.9.1/res
+com.kaushalya.karnataka.test.app-jetified-annotation-experimental-1.4.0-28 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/c064070aa1359f9e0be6171c848278b4/transformed/jetified-annotation-experimental-1.4.0/res
+com.kaushalya.karnataka.test.app-jetified-runtime-release-29 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/c111a50eb09602c5f95f72ac39552b05/transformed/jetified-runtime-release/res
+com.kaushalya.karnataka.test.app-jetified-ui-test-junit4-release-30 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/d17672cfbda7e5ffd9a45dca51da3d91/transformed/jetified-ui-test-junit4-release/res
+com.kaushalya.karnataka.test.app-jetified-ui-util-release-31 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/d54aff1f76e854e00b2a87090dfd5ab3/transformed/jetified-ui-util-release/res
+com.kaushalya.karnataka.test.app-core-runtime-2.2.0-32 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/f1389c284fd900befa764be87c7792a4/transformed/core-runtime-2.2.0/res
+com.kaushalya.karnataka.test.app-jetified-lifecycle-process-2.8.4-33 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/f87cc589151ceebfb09aeb59a4aea468/transformed/jetified-lifecycle-process-2.8.4/res
+com.kaushalya.karnataka.test.app-jetified-lifecycle-runtime-release-34 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/fdfe2fed77ea502692733fc32f797b2e/transformed/jetified-lifecycle-runtime-release/res
+com.kaushalya.karnataka.test.app-jetified-core-1.6.1-35 /Users/niharikaranjan_2025/.gradle/caches/9.2.1/transforms/fe1400cc2ba369880ddffb2a3a50730a/transformed/jetified-core-1.6.1/res
