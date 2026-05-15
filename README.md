@@ -113,5 +113,5 @@ git clone https://github.com/yourusername/kaushalya-karnataka.git
 ---
 
 ## Author
-Rajneesh Ranjan
+Niharika Ranjan
 
