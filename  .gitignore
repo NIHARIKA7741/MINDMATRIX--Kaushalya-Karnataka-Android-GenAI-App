@@ -1,0 +1,51 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+
+# Gradle files
+.gradle/
+
+# Local configuration file
+local.properties
+
+# Android Studio files
+.idea/
+*.iml
+
+# Navigation editor temp files
+.navigation/
+
+# Captures
+captures/
+
+# External native build folder
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+.kotlin/
+
+# Logs
+*.log
+
+# Mac files
+.DS_Store
+
+# Cache
+nb-cache/
+
+# Firebase config (optional)
+google-services.json
