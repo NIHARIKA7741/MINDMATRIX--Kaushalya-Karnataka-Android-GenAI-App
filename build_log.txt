@@ -1,0 +1,190 @@
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by net.rubygrapefruit.platform.internal.NativeLibraryLoader in an unnamed module (file:/Users/niharikaranjan_2025/.gradle/wrapper/dists/gradle-9.2.1-bin/2t0n5ozlw9xmuyvbp7dnzaxug/gradle-9.2.1/lib/native-platform-0.22-milestone-29.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+> Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :app:processDebugGoogleServices UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+
+> Task :app:compileDebugKotlin FAILED
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/MainActivity.kt:17:42 Unresolved reference 'SettingsViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/MainActivity.kt:24:36 Unresolved reference 'SettingsViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/MainActivity.kt:24:56 Cannot infer type for this parameter. Specify it explicitly.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/MainActivity.kt:27:67 Unresolved reference 'isDarkMode'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:27:42 Unresolved reference 'BookingHistoryViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:29:42 Unresolved reference 'NotificationsViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:30:42 Unresolved reference 'SettingsViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:31:42 Unresolved reference 'WorkerDashboardViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:36:24 Unresolved reference 'SettingsViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:242:40 Unresolved reference 'BookingHistoryViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:242:66 Cannot infer type for this parameter. Specify it explicitly.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:246:43 Unresolved reference 'loadBookings'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:254:39 Unresolved reference 'WorkerDashboardViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:254:66 Cannot infer type for this parameter. Specify it explicitly.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:257:64 Unresolved reference 'loadDashboard'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:300:34 Unresolved reference 'NotificationsViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:300:59 Cannot infer type for this parameter. Specify it explicitly.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:303:60 Unresolved reference 'loadNotifications'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:310:39 Unresolved reference 'WorkerDashboardViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/navigation/AppNavGraph.kt:310:66 Cannot infer type for this parameter. Specify it explicitly.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/components/Components.kt:405:23 'when' expression must be exhaustive. Add the 'ACCEPTED', 'REJECTED' branches or an 'else' branch.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/BookingHistoryScreen.kt:25:42 Unresolved reference 'BookingHistoryViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/BookingHistoryScreen.kt:29:16 Unresolved reference 'BookingHistoryViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/BookingHistoryScreen.kt:29:42 Cannot infer type for this parameter. Specify it explicitly.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/BookingHistoryScreen.kt:87:59 Unresolved reference 'upcomingBookings'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/BookingHistoryScreen.kt:87:91 Unresolved reference 'completedBookings'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/BookingHistoryScreen.kt:112:43 Argument type mismatch: actual type is 'Int', but 'Booking' was expected.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/BookingScreen.kt:44:19 Unresolved reference 'clearBookingError'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/BookingScreen.kt:328:35 Unresolved reference 'reset'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/NotificationsScreen.kt:25:42 Unresolved reference 'NotificationsViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/NotificationsScreen.kt:29:16 Unresolved reference 'NotificationsViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/NotificationsScreen.kt:29:41 Cannot infer type for this parameter. Specify it explicitly.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/NotificationsScreen.kt:55:35 Unresolved reference 'unreadCount'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/NotificationsScreen.kt:57:49 Unresolved reference 'unreadCount'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/NotificationsScreen.kt:63:31 Unresolved reference 'unreadCount'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/NotificationsScreen.kt:64:53 Unresolved reference 'markAllRead'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/NotificationsScreen.kt:71:23 Unresolved reference 'notifications'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/NotificationsScreen.kt:89:33 Unresolved reference 'notifications'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/NotificationsScreen.kt:91:40 Argument type mismatch: actual type is 'Int', but 'Notification' was expected.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/NotificationsScreen.kt:92:45 Unresolved reference 'markAsRead'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/NotificationsScreen.kt:92:69 Unresolved reference 'id'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/SettingsScreen.kt:25:42 Unresolved reference 'SettingsViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/SettingsScreen.kt:39:16 Unresolved reference 'SettingsViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/SettingsScreen.kt:39:36 Cannot infer type for this parameter. Specify it explicitly.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/SettingsScreen.kt:177:46 Unresolved reference 'isDarkMode'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/SettingsScreen.kt:178:41 Unresolved reference 'isDarkMode'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/SettingsScreen.kt:179:44 Unresolved reference 'toggleDarkMode'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/SettingsScreen.kt:185:42 Unresolved reference 'selectedLanguage'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/SettingsScreen.kt:291:31 Unresolved reference 'languages'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/SettingsScreen.kt:291:51 Cannot infer type for this parameter. Specify it explicitly.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/SettingsScreen.kt:292:25 @Composable invocations can only happen from the context of a @Composable function
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/SettingsScreen.kt:297:54 Unresolved reference 'selectedLanguage'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/SettingsScreen.kt:299:47 Unresolved reference 'setLanguage'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:32:42 Unresolved reference 'WorkerDashboardViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:37:16 Unresolved reference 'WorkerDashboardViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:37:43 Cannot infer type for this parameter. Specify it explicitly.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:93:28 Unresolved reference 'currentWorker'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:103:23 Unresolved reference 'pendingProfilePhotoUri'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:108:30 Unresolved reference 'profileSaved'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:109:23 Unresolved reference 'profileSaved'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:115:30 Unresolved reference 'profileSaveError'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:116:29 Unresolved reference 'profileSaveError'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:118:19 Unresolved reference 'clearProfileSaveError'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:148:60 Unresolved reference 'editName'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:149:54 Unresolved reference 'displayName'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:186:62 Unresolved reference 'totalEarnings'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:187:56 Unresolved reference 'totalJobs'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:221:77 Unresolved reference 'bookingRequests'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:226:27 Unresolved reference 'bookingRequests'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:235:33 Unresolved reference 'bookingRequests'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:245:50 Unresolved reference 'customerName'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:246:53 Unresolved reference 'date'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:246:72 Unresolved reference 'time'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:247:50 Unresolved reference 'address'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:249:69 Unresolved reference 'status'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:268:43 Unresolved reference 'earnings'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:275:60 Unresolved reference 'earnings'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:275:83 Unresolved reference 'it'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:276:43 Unresolved reference 'earnings'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:276:62 Cannot infer type for this parameter. Specify it explicitly.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:277:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:278:54 Unresolved reference 'month'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:280:80 Unresolved reference 'amount'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:282:58 Unresolved reference 'amount'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:327:55 Unresolved reference 'editName'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:327:98 Unresolved reference 'editName'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:329:58 Unresolved reference 'editPhone'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:329:101 Unresolved reference 'editPhone'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:331:64 Unresolved reference 'editExperience'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:331:118 Unresolved reference 'editExperience'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:333:64 Unresolved reference 'editPricePerHour'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:333:122 Unresolved reference 'editPricePerHour'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:335:54 Unresolved reference 'editLocation'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:335:105 Unresolved reference 'editLocation'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:337:53 Unresolved reference 'editBio'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:337:90 Unresolved reference 'editBio'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:337:100 Unresolved reference 'it'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:337:116 @Composable invocations can only happen from the context of a @Composable function
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:337:163 @Composable invocations can only happen from the context of a @Composable function
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:341:48 Unresolved reference 'editAvailable'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:341:93 Unresolved reference 'editAvailable'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:344:46 Unresolved reference 'saveProfile'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:357:53 Unresolved reference 'editLocation'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:357:95 Unresolved reference 'editLocation'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:357:110 Unresolved reference 'it'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:357:126 @Composable invocations can only happen from the context of a @Composable function
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:357:171 @Composable invocations can only happen from the context of a @Composable function
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:357:226 @Composable invocations can only happen from the context of a @Composable function
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerDashboardScreen.kt:359:46 Unresolved reference 'saveProfile'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:23:42 Unresolved reference 'WorkerDashboardViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:27:16 Unresolved reference 'WorkerDashboardViewModel'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:27:43 Cannot infer type for this parameter. Specify it explicitly.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:68:39 Unresolved reference 'totalEarnings'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:75:38 Unresolved reference 'totalJobs'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:92:40 Unresolved reference 'earnings'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:92:63 Unresolved reference 'amount'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:99:39 Unresolved reference 'totalJobs'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:100:35 Unresolved reference 'totalEarnings'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:100:61 Unresolved reference 'totalJobs'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:120:47 Unresolved reference 'earnings'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:120:70 Unresolved reference 'it'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:121:31 Unresolved reference 'earnings'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:121:50 Cannot infer type for this parameter. Specify it explicitly.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:122:25 @Composable invocations can only happen from the context of a @Composable function
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:129:48 Unresolved reference 'month'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:137:53 Unresolved reference 'amount'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:144:41 Unresolved reference 'amount'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:144:60 'operator' modifier is required on 'FirNamedFunctionSymbol kotlin/compareTo' in 'compareTo'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:145:77 Unresolved reference 'amount'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:149:52 Unresolved reference 'amount'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:166:23 Unresolved reference 'earnings'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:166:53 Cannot infer type for this parameter. Specify it explicitly.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:167:17 @Composable invocations can only happen from the context of a @Composable function
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:172:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:172:85 @Composable invocations can only happen from the context of a @Composable function
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:173:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:200:45 Unresolved reference 'month'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:205:48 Unresolved reference 'jobsCompleted'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/ui/screens/WorkerEarningsScreen.kt:212:41 Unresolved reference 'amount'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/viewmodel/ViewModels.kt:690:15 Unresolved reference 'onFailure'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/viewmodel/ViewModels.kt:691:32 Unresolved reference 'it'.
+e: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/app/src/main/java/com/kaushalya/karnataka/viewmodel/ViewModels.kt:975:2 Syntax error: Missing '}.
+
+[Incubating] Problems report is available at: file:///Users/niharikaranjan_2025/%20Kaushalya-Karnataka/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileDebugKotlin'.
+> A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction
+   > Compilation error. See log for more details
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to generate a Build Scan (powered by Develocity).
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/9.2.1/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 8s
+15 actionable tasks: 1 executed, 14 up-to-date
